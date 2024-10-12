@@ -1,0 +1,12 @@
+body {
+    background-color: rgb(29, 29, 29);
+    text-align: center;
+    color: aliceblue;
+}
+
+
+.stream-text {
+    padding: 8px;
+    
+    border: 2px solid white;
+}
